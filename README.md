@@ -1,6 +1,6 @@
 ![ZIO Logo](./ZIO.png)
 
-| Project Stage | CI | Release | Snapshot | Issues |
+| Project Stage | CI | Release | Snapshot | Issues | 
 | --- | --- | --- | --- | --- |
 | [![Project stage][Badge-Stage]][Badge-Stage-Page] | ![CI][Badge-CI] | [![Release Artifacts][Badge-SonatypeReleases]][Link-SonatypeReleases] | [![Snapshot Artifacts][Badge-SonatypeSnapshots]][Link-SonatypeSnapshots] | [![Average time to resolve an issue][Badge-IsItMaintained]][Link-IsItMaintained] |
 
