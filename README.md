@@ -1,12 +1,12 @@
 ![ZIO Logo](./ZIO.png)
 
-| Project Stage | CI | Release | Snapshot | Issues | 
+| Project Stage | CI | Release | Snapshot | Issues |
 | --- | --- | --- | --- | --- |
 | [![Project stage][Badge-Stage]][Badge-Stage-Page] | ![CI][Badge-CI] | [![Release Artifacts][Badge-SonatypeReleases]][Link-SonatypeReleases] | [![Snapshot Artifacts][Badge-SonatypeSnapshots]][Link-SonatypeSnapshots] | [![Average time to resolve an issue][Badge-IsItMaintained]][Link-IsItMaintained] |
 
 | Scaladoc | Scaladex | Discord | Twitter | Gitpod |
 | --- | --- | --- | --- | --- |
-| [Scaladoc][Link-Scaladoc] | [![Badge-Scaladex-page]][Link-Scaladex-page] | [![Badge-Discord]][Link-Discord] | [![Badge-Twitter]][Link-Twitter] | [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/zio/zio) |
+| [Scaladoc][Link-Scaladoc] | [![Badge-Scaladex-page]][Link-Scaladex-page] | [![Badge-Discord]][Link-Discord] | [![Badge-Twitter]][Link-Twitter] | [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/zio/zio) | 
 
 # Welcome to ZIO
 
